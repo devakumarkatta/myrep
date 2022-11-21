@@ -1,0 +1,38 @@
+Image Scraping Online Tools
+Forget about what browser you are using, try webpage tool to download the images if you don't want to install anything on your devices.
+
+1. Image Cyborg
+Image Cyborg is a web app that quickly downloads all the images of a web page. This Handy tool has a simple and straightforward home interface just like a searching engine. You have nowhere to go except download the images.
+
+Despite the easy accessibility, it comes with some apparent defects. Here are my using experiences.
+
+
+  1. Images are mostly low resolution and small sized. Yes, most of them are thumbnail images.
+  2. The zip files share the same name: [image-cyborg]. Need to rename the file one by one.
+  3. Some logos or avatars images will be packed but you might need them.
+
+2. extract.pics
+extract.pics is another geeky tool with a simple and clear interface. The best part is that you have the chance to preview all the images before downloading and selecting or deselect. However, you might bump into this error when you try to download all images with one click.
+
+Use Browser Extension to Download Images
+1. Use Firefox
+You may be surprised that everything is just behind a right-click. You can download all the images of the present website by following a few simple steps. A few seconds away.
+
+Open the website you are going to get images from with Firefox. Right click on the blank area and you will see the option of “view page info”. Click it.
+
+Skip the general information and click “Media”. You will see a list of URLs of those images you are going to download.
+
+Click “select all” - ”Save as”: Now you are getting all the images from the website!
+
+Note: One caveat for this is that it can’t save image file in webp format as it doesn’t get detected by the “Media” option.
+
+2. Use Chrome or Edge
+If you're using Chrome browser, Image downloader for Chrome will be a good choice. For Edge user, you can try Microsoft Edge Image Downloader.
+
+Let's take Chrome as an example. Open the website you are aiming to scrape pictures from. Launch the extension tool and it's a white arrow on a blue background. You'll find it in the top-right side of the Chrome window. This displays all downloadable images in a pop-up window. 
+
+You will find that this tool offers a filter to help you get rid of those small tiny icons and only download those normal-size pictures you need.
+
+ 
+
+
